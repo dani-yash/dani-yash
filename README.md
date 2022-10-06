@@ -6,5 +6,5 @@
 - 🤔 I’m looking for more practice with data structures and related problems.
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There are 293 ways to make change for a dollar (Moral: If there's a will, there's a way!)
+- ⚡ Fun fact: There are 293 ways to make change for a dollar (Moral: If there's a will, there's a way!😆)
 
