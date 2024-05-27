@@ -2,7 +2,7 @@
 <h3 align="center">Where imagination meets innovation: Engineering the future, one line of code at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **an interesting research project on information networks modeling the spread of fake news on social media and exploring various aspects of such network!**
+- 🔭 I’m currently working on **an interesting research project on information networks modeling the spread of fake news on social media and exploring various aspects of such networks!**
 
 - 🌱 I’m currently learning **courses on Information Networks and Machine Learning**
 
